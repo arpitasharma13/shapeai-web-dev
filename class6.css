@@ -1,0 +1,19 @@
+.firstbox {
+ border: blue 2px solid;
+}
+#internal_ul{
+ background: orange;
+}
+h2 {
+ background: rgb(194, 143, 160);
+}
+p[name="firstptag"]
+{
+ background: orchid;
+}
+body {
+ background-color: antiquewhite;
+}
+img {
+ border-radius: 50%;
+}
