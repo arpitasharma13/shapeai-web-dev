@@ -1,19 +1,18 @@
-.firstbox {
- border: blue 2px solid;
+body {
+    background-color: green;
 }
-#internal_ul{
- background: orange;
+.firstbox {
+    border: black 2px solid;
+}
+#internal_ul {
+    background-color: cyan;
 }
 h2 {
- background: rgb(219, 87, 131);
+    background-color: orange;
 }
-p[name="firstptag"]
-{
- background: orchid;
-}
-body {
- background-color: antiquewhite;
+p[name="first_p_tag"] {
+    background-color: pink;
 }
 img {
- border-radius: 50%;
+    border-radius: 5%;
 }
